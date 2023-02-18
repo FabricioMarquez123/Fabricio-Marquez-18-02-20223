@@ -1,0 +1,5 @@
+C:\Users\ThinkPad\Documents\Fabricio-Marquez-18-02-20223\obj\Debug\net7.0\Fabricio-Marquez-18-02-20223.csproj.AssemblyReference.cache
+C:\Users\ThinkPad\Documents\Fabricio-Marquez-18-02-20223\obj\Debug\net7.0\Fabricio-Marquez-18-02-20223.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThinkPad\Documents\Fabricio-Marquez-18-02-20223\obj\Debug\net7.0\Fabricio-Marquez-18-02-20223.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\Documents\Fabricio-Marquez-18-02-20223\obj\Debug\net7.0\Fabricio-Marquez-18-02-20223.AssemblyInfo.cs
+C:\Users\ThinkPad\Documents\Fabricio-Marquez-18-02-20223\obj\Debug\net7.0\Fabricio-Marquez-18-02-20223.csproj.CoreCompileInputs.cache
